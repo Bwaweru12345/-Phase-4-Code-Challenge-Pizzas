@@ -1,4 +1,4 @@
-# Pizza Restaurant
+# Phase-4-Code-Challenge-Pizzas
 Restaurant-Pizza is a basic API built with ruby on rails and deployed using PostgreSql that implements associations.
 The application has been built with the MVC design pattern.
 ## Prerequisites
