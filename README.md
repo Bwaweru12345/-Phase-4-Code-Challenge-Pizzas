@@ -21,7 +21,7 @@ This application has been built with the following tools:
 You can setup this repository by following this manual
 1. Clone the repository
     ```{shell}
-   git clone git@github.com:richard200/phase-4-pizza-code-challenge.git
+   git clone git@github.com:Bwaweru12345/Phase-4-Code-Challenge-Pizzas.git
    ```
 2. Ensure the ruby gems are setup in your machine
     ```{shell}
